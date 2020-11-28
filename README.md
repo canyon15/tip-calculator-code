@@ -14,10 +14,11 @@ Android.os.Bundle
               .EditText
               .TextView
 
-![image](https://user-images.githubusercontent.com/71223581/100526728-e60f2e80-3188-11eb-8706-eb0c076478b1.png)
+![image](https://user-images.githubusercontent.com/71223581/100526804-98df8c80-3189-11eb-8bf2-88fa3454c689.png)
 
-![image](https://user-images.githubusercontent.com/71223581/100526735-f0c9c380-3188-11eb-82ec-2edbce7a45fa.png)
+![image](https://user-images.githubusercontent.com/71223581/100526806-9f6e0400-3189-11eb-9a5a-033492835d3c.png)
 
-![image](https://user-images.githubusercontent.com/71223581/100526719-d4c62200-3188-11eb-825a-085f9c85048a.png)
+![image](https://user-images.githubusercontent.com/71223581/100526811-a9900280-3189-11eb-9364-2334a52f096e.png)
+
 
 
